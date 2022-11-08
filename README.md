@@ -5,6 +5,8 @@ Feel free to try my scripts or rewrite them to fit your needs.
 
 Currently working on some research about DNS and Dependency Confusion.  
 
+And some gists: https://gist.github.com/gwen001  
+
 
 # 🧐 Find me
 
