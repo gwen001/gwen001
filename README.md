@@ -25,4 +25,4 @@ Sponsor page: https://github.com/sponsors/gwen001
 
 
 
-![Coding cat](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp)
+<img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="300">
