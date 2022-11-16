@@ -12,7 +12,7 @@ And some onliners: https://gist.github.com/gwen001
     <img src="https://img.shields.io/badge/-python-green" alt="python badge">
     <img src="https://img.shields.io/badge/-go-red" alt="go badge">
     <img src="https://img.shields.io/badge/-bash-orange" alt="bash badge">
-    <img src="https://img.shields.io/badge/-javascript-lightgrey" alt="javascript badge">
+    <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript badge">
 </p>
 
 
