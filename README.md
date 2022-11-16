@@ -1,7 +1,7 @@
 # 👨‍💻 About me
 
 Bug hunter, tool maker, I love coding and learn new stuff.  
-Feel free to try my scripts or rewrite them to fit your needs.  
+Feel free to try my scripts or update them to fit your needs.  
 
 Currently working on some research about DNS and Dependency Confusion.  
 
