@@ -18,7 +18,8 @@ And some onliners: https://gist.github.com/gwen001
 
 # 🧐 Find me
 
-https://10degres.net  
+https://10degres.net 
+https://twitter.com/gwendallecoguic  
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
 Sponsor page: https://github.com/sponsors/gwen001  
