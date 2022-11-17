@@ -18,6 +18,31 @@ And some onliners: https://gist.github.com/gwen001
 </p>
 
 
+# 💾 Quick Project
+
+<a href="https://github.com/gwen001/csp-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwen001&repo=csp-analyzer" />
+</a>
+<a href="https://github.com/gwen001/dnsexpire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/gwen001/favicon-hashtrick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/gwen001/extract-endpoints">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/gwen001/cloudflare-origin-ip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/gwen001/gitpillage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/gwen001/keyhacks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 # 🧐 Find me
 
 https://10degres.net  
