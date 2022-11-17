@@ -18,32 +18,20 @@ And some onliners: https://gist.github.com/gwen001
 </p>
 
 
-# 💾 Quick Project
+# 💾 MY favorite projects
 
-<a href="https://github.com/gwen001/csp-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwen001&repo=csp-analyzer" />
-</a>
-<a href="https://github.com/gwen001/dnsexpire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/gwen001/favicon-hashtrick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/gwen001/extract-endpoints">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/gwen001/cloudflare-origin-ip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/gwen001/gitpillage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/gwen001/keyhacks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+https://github.com/gwen001/csp-analyzer
+https://github.com/gwen001/favicon-hashtrick
+[related-domains](https://github.com/gwen001/related-domains): Find related domains of a given domain.
+[DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.
+[gitpillage](https://github.com/gwen001/gitpillage): Extract data from a public .git directory.
+https://github.com/gwen001/extract-endpoints
+[keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.
+https://github.com/gwen001/graphql-introspection-analyzer
+https://github.com/gwen001/github-regexp
 
 
-# 🧐 Find me
+# 📧 Find me
 
 https://10degres.net  
 
