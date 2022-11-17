@@ -20,15 +20,15 @@ And some onliners: https://gist.github.com/gwen001
 
 # 💾 MY favorite projects
 
-[csp-analyzer](https://github.com/gwen001/csp-analyzer)  
-[favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick)  
+[csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
+[favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 [related-domains](https://github.com/gwen001/related-domains): Find related domains of a given domain.  
 [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 [gitpillage](https://github.com/gwen001/gitpillage): Extract data from a public .git directory.  
-[extract-endpoints](https://github.com/gwen001/extract-endpoints)  
+[extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
 [keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
 [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer)  
-[github-regexp](https://github.com/gwen001/github-regexp)  
+[github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
 
 
 # 📧 Find me
