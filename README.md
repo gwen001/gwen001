@@ -27,7 +27,7 @@ And some onliners: https://gist.github.com/gwen001
 [gitpillage](https://github.com/gwen001/gitpillage): Extract data from a public .git directory.  
 [extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
 [keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
-[graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer)  
+[graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
 
 
