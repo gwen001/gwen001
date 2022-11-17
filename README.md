@@ -1,11 +1,10 @@
 # 🧔 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
-Feel free to try my scripts or update them to fit your needs.  
+Feel free to try my scripts or update them to fit your needs.
+Check also [some good oneliners](https://gist.github.com/gwen001).  
 
 Currently working on some research about DNS and Dependency Confusion.  
-
-And some onliners: https://gist.github.com/gwen001  
 
 <p>
     <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
