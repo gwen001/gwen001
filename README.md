@@ -15,6 +15,8 @@ And some onliners: https://gist.github.com/gwen001
     <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript badge">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwen001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 🧐 Find me
 
