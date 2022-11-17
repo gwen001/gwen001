@@ -18,7 +18,7 @@ And some onliners: https://gist.github.com/gwen001
 </p>
 
 
-# 💾 MY favorite projects
+# 💾 My favorite projects
 
 [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
 [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
@@ -37,8 +37,8 @@ https://10degres.net
 
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
-Sponsor page: https://github.com/sponsors/gwen001  
 
+![https://raw.githubusercontent.com/gwen001/pentest-tools/master/github-sponsor.jpg](https://github.com/sponsors/gwen001)
 
 
 <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="300">
