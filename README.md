@@ -1,6 +1,6 @@
-# 👨‍💻 About me
+# 🧔 About me
 
-Bug hunter, tool maker, I love coding and learn new stuff.  
+Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
 Feel free to try my scripts or update them to fit your needs.  
 
 Currently working on some research about DNS and Dependency Confusion.  
@@ -37,8 +37,9 @@ https://10degres.net
 
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
-
 [![Sponsor page](https://raw.githubusercontent.com/gwen001/pentest-tools/master/github-sponsor.jpg)](https://github.com/sponsors/gwen001)
 
+
+# 🥰 Current mood
 
 <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="300">
