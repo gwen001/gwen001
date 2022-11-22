@@ -7,9 +7,9 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 Currently working on some research about DNS and Dependency Confusion.  
 
 <p>
-    <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
     <img src="https://img.shields.io/badge/-python-green" alt="python badge">
     <img src="https://img.shields.io/badge/-go-red" alt="go badge">
+    <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
     <img src="https://img.shields.io/badge/-bash-orange" alt="bash badge">
     <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript badge">
     <img src="https://img.shields.io/badge/-html-purple" alt="html badge">
@@ -19,6 +19,7 @@ Currently working on some research about DNS and Dependency Confusion.
 
 # 💾 My favorite projects
 
+[google-search](https://github.com/gwen001/google-search): Returns results from Google searches.  
 [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
 [extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
