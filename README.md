@@ -37,7 +37,7 @@ https://10degres.net
 
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
-[![Sponsor page](https://raw.githubusercontent.com/gwen001/pentest-tools/master/github-sponsor.jpg)](https://github.com/sponsors/gwen001)
+[![Sponsor page](https://raw.githubusercontent.com/gwen001/10degres_hugo/master/static/assets/img/github-sponsor.png)](https://github.com/sponsors/gwen001)
 
 
 # 🥰 Current mood
