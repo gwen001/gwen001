@@ -4,7 +4,7 @@ Bug hunter, tool maker, father, climber, I love coding and learn new stuff.
 Feel free to try my scripts or update them to fit your needs.
 Check also [some good oneliners](https://gist.github.com/gwen001).  
 
-Currently working on my new prject: https://offsec.tools.  
+Currently working on my new project: https://offsec.tools.  
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 
 <p>
