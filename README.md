@@ -1,6 +1,8 @@
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="200 " height="200" /></a>
 
+---
+
 ### 🧔 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
@@ -16,6 +18,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
     <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
 </p>
 
+---
 
 ### 💾 Current mood
 
@@ -23,6 +26,7 @@ Hardly working on my new project: https://offsec.tools.
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 <img src="https://offsec.tools/img/preview.png" alt="offsec.tools" width="250">
 
+---
 
 ### 🥰 My favorite projects
 
@@ -35,6 +39,7 @@ A vast collection of security tools for bug bounty, pentest and red teaming.
 [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 
+---
 
 ### 📧 Find me
 
