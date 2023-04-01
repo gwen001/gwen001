@@ -1,4 +1,6 @@
 
+<a href="#"><img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="200 " height="200" /></a>
+
 # 🧔 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
@@ -41,5 +43,3 @@ https://10degres.net
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
 [![Sponsor page](https://raw.githubusercontent.com/gwen001/10degres_hugo/master/static/assets/img/github-sponsor.png)](https://github.com/sponsors/gwen001)
-
-<img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="200">
