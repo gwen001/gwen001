@@ -17,7 +17,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
     <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
 </p>
 
-<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="150">
+<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="100">
 
 ---
 
@@ -27,20 +27,20 @@ Hardly working on my new project: https://offsec.tools.
 A vast collection of security tools for bug bounty, pentest and red teaming.
 Curated by the community, feel free to add your own tool and subscribe the newsletter.
 
-<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="150" />
+<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="100" />
 
 ---
 
 ### 🥰 My favorite projects
 
-[DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
-[github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
-[extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
-[keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
-[related-domains](https://github.com/gwen001/related-domains): Find related domains of a given domain.  
-[csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
-[favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
-[graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
+- [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
+- [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
+- [extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
+- [keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
+- [related-domains](https://github.com/gwen001/related-domains): Find related domains of a given domain.  
+- [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
+- [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
+- [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 
 ---
 
