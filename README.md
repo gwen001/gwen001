@@ -17,7 +17,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
     <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
 </p>
 
-[![my stats](https://github-readme-stats.vercel.app/api?username=gwen001&count_private=true&&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=gwen001&count_private=true&&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true&hide=contribs,prs">
 
 
 <img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="150">
