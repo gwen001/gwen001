@@ -17,14 +17,14 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 </p>
 
 
-# 🥰 Current mood
+# 💾 Current mood
 
 Hardly working on my new project: https://offsec.tools.  
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 <img src="https://offsec.tools/img/preview.png" alt="offsec.tools" width="250">
 
 
-# 💾 My favorite projects
+# 🥰 My favorite projects
 
 [google-search](https://github.com/gwen001/google-search): Returns results from Google searches.  
 [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
