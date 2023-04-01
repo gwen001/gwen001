@@ -43,8 +43,8 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 ---
 
