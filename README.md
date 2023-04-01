@@ -46,4 +46,4 @@ https://10degres.net
 
 [![Sponsor page](https://raw.githubusercontent.com/gwen001/10degres_hugo/master/static/assets/img/github-sponsor.png)](https://github.com/sponsors/gwen001)
 
-<img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="300">
+<img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" alt="Coding cat" width="200">
