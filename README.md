@@ -17,7 +17,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
     <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
 </p>
 
-<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" width="250">
+<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="150">
 
 ---
 
@@ -26,7 +26,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 Hardly working on my new project: https://offsec.tools.  
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 
-<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="150 " height="150" />
+<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="150" />
 
 ---
 
