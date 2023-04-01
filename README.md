@@ -41,7 +41,7 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 - [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 - [cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip): Try to find the origin IP of a webapp protected by Cloudflare.  
 
-<img align="right" src="https://raw.githubusercontent.com/gwen001/DataExtractor/main/settings.png" alt="DataExtractor" height="150">
+<img align="right" src="https://raw.githubusercontent.com/gwen001/cloudflare-origin-ip/main/preview.png" alt="cloudflare-origin-ip" height="150">
 
 ---
 
