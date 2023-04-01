@@ -31,7 +31,6 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 ---
 
 ### 🥰 My favorite projects
-<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="150" />
 
 - [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 - [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
@@ -41,6 +40,11 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 - [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
 - [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 - [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
