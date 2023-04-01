@@ -30,6 +30,8 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 ### 🤩 My favorite projects
 
 - [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
+- [github-subdomains](https://github.com/gwen001/github-subdomains): Find subdomains on GitHub.  
+- [github-endpoints](https://github.com/gwen001/github-endpoints): Find endpoints on GitHub.  
 - [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
 - [extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
 - [keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
@@ -37,8 +39,9 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 - [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
 - [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 - [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
+- [cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip): Try to find the origin IP of a webapp protected by Cloudflare.  
 
-<img align="right" src="https://raw.githubusercontent.com/gwen001/csp-analyzer/main/preview.png" alt="csp-analyzer" height="150">
+<img align="right" src="https://raw.githubusercontent.com/gwen001/DataExtractor/main/settings.png" alt="DataExtractor" height="150">
 
 ---
 
