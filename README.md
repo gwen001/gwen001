@@ -26,11 +26,9 @@ A vast collection of security tools for bug bounty, pentest and red teaming.
 
 # 🥰 My favorite projects
 
-[google-search](https://github.com/gwen001/google-search): Returns results from Google searches.  
 [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
 [extract-endpoints](https://github.com/gwen001/extract-endpoints): Extract endpoints from source files.  
-[gitpillage](https://github.com/gwen001/gitpillage): Extract data from a public .git directory.  
 [keyhacks](https://github.com/gwen001/keyhacks): Automation of tokens/api keys testing.  
 [related-domains](https://github.com/gwen001/related-domains): Find related domains of a given domain.  
 [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
