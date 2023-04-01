@@ -17,7 +17,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
     <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
 </p>
 
-<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="100">
+<img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="150">
 
 ---
 
@@ -31,7 +31,7 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 ---
 
 ### 🥰 My favorite projects
-<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="100" />
+<img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="150" />
 
 - [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 - [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
