@@ -19,6 +19,8 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 
 <img src="https://github-readme-stats.vercel.app/api?username=gwen001&count_private=true&&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true&hide=contribs,prs">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwen001&layout=compact&langs_count=6&hide_title=true&disable_animations=true&count_private=true&&show_icons=true&hide_border=true&include_all_commits=true">
+
 
 <img align="right" src="https://offsec.tools/img/preview.png" alt="offsec.tools" height="150">
 
@@ -43,11 +45,6 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 - [csp-analyzer](https://github.com/gwen001/csp-analyzer): Analyze the Content-Security-Policy of a given URL.  
 - [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 - [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
-
----
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
 
 ---
 
