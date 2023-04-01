@@ -24,7 +24,8 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 ### 💾 Current mood
 
 Hardly working on my new project: https://offsec.tools.  
-A vast collection of security tools for bug bounty, pentest and red teaming.  
+A vast collection of security tools for bug bounty, pentest and red teaming.
+Curated by the community, feel free to add your own tool and subscribe the newsletter.
 
 <img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" height="150" />
 
