@@ -1,4 +1,3 @@
-![Metrics](https://metrics.lecoq.io/gwen001?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis)
 
 # 🧔 About me
 
@@ -21,6 +20,7 @@ Hardly working on my new project: https://offsec.tools.
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 <img src="https://offsec.tools/img/preview.png" alt="offsec.tools" width="250">
 
+![Metrics](https://metrics.lecoq.io/gwen001?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis)
 
 # 💾 My favorite projects
 
