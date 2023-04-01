@@ -51,5 +51,5 @@ https://10degres.net
 
 <a href="https://twitter.com/gwendallecoguic"><img src="https://img.shields.io/twitter/follow/gwendallecoguic.svg?logo=twitter"></a>
 
-As it takes alot of time to write and maintain tools, sponsoring is always appreciated :)
+As it takes alot of time to write and maintain tools, sponsoring is always appreciated :)  
 [![Sponsor page](https://raw.githubusercontent.com/gwen001/10degres_hugo/master/static/assets/img/github-sponsor.png)](https://github.com/sponsors/gwen001)
