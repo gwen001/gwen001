@@ -38,6 +38,8 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 - [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick): Find subdomains using a the favicon trick.  
 - [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 
+<img align="right" src="https://raw.githubusercontent.com/gwen001/csp-analyzer/main/preview.png" alt="csp-analyzer" height="150">
+
 ---
 
 ### 📧 Find me
