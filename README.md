@@ -1,8 +1,5 @@
 
-
----
-
-### 🧔 About me
+### 🤠 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
 Feel free to try my scripts or update them to fit your needs.
@@ -21,7 +18,7 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 
 ---
 
-### 💾 Current mood
+### 💻 Current mood
 
 Hardly working on my new project: https://offsec.tools.  
 A vast collection of security tools for bug bounty, pentest and red teaming.
@@ -30,7 +27,7 @@ Curated by the community, feel free to add your own tool and subscribe the newsl
 
 ---
 
-### 🥰 My favorite projects
+### 🤩 My favorite projects
 
 - [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 - [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
