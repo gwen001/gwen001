@@ -1,7 +1,7 @@
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp" width="200 " height="200" /></a>
 
-# 🧔 About me
+### 🧔 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
 Feel free to try my scripts or update them to fit your needs.
@@ -17,14 +17,14 @@ Check also [some good oneliners](https://gist.github.com/gwen001).
 </p>
 
 
-# 💾 Current mood
+### 💾 Current mood
 
 Hardly working on my new project: https://offsec.tools.  
 A vast collection of security tools for bug bounty, pentest and red teaming.  
 <img src="https://offsec.tools/img/preview.png" alt="offsec.tools" width="250">
 
 
-# 🥰 My favorite projects
+### 🥰 My favorite projects
 
 [DataExtractor](https://github.com/gwen001/DataExtractor): Burp Suite extension to extract data from source code while browsing.  
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp filter over a GitHub search.  
@@ -36,7 +36,7 @@ A vast collection of security tools for bug bounty, pentest and red teaming.
 [graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer): Analyze the response of the introspection query of GraphQL.  
 
 
-# 📧 Find me
+### 📧 Find me
 
 https://10degres.net  
 
