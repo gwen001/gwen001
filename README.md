@@ -1,5 +1,5 @@
 
-### 🤠 About me
+### 👨‍🦰 About me
 
 Bug hunter, tool maker, father, climber, I love coding and learn new stuff.  
 Feel free to try my scripts or update them to fit your needs.
